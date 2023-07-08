@@ -6,12 +6,15 @@
 Что понадобится:
 
  Установка PyTorch
+ 
 !pip install torch torchvision
 
  Установка Numpy
+
 !pip install numpy
  
  Установка Matplotlib
+
 !pip install matplotlib
 
 Последний блок кода кода с аугментацие(изменение тестовых данных) выполняем его и изменённые данные, после чего повторяем обучение
