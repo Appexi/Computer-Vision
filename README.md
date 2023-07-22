@@ -5,15 +5,15 @@
 
 Что понадобится:
 
- Установка PyTorch
+1. Установка PyTorch
  
 !pip install torch torchvision
 
- Установка Numpy
+2. Установка Numpy
 
 !pip install numpy
  
- Установка Matplotlib
+3. Установка Matplotlib
 
 !pip install matplotlib
 
